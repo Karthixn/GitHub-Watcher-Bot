@@ -1,0 +1,44 @@
+{
+  "watches": [
+    {
+      "id": "user:karthixn",
+      "type": "user",
+      "target": "Karthixn",
+      "channel": null
+    }
+  ],
+  "seenRepos": {
+    "Karthixn": [
+      "Karthixn/Sp_Starterpack",
+      "Karthixn/Sp_holohud2",
+      "Karthixn/Sp_BlipCreator",
+      "Karthixn/Application_Bot",
+      "Karthixn/PAYMENT_BOT",
+      "Karthixn/Thwariq_Anwar_Portfolio",
+      "Karthixn/Verification_Panel",
+      "Karthixn/Application-Bot",
+      "Karthixn/LP-Vehicle-Spawner",
+      "Karthixn/lp_lobbies",
+      "Karthixn/Lp_NameChecker",
+      "Karthixn/TICKETS-BOT-V1",
+      "Karthixn/NxT_Payments"
+    ],
+    "karthixn": [
+      "Karthixn/Sp_Starterpack",
+      "Karthixn/Sp_holohud2",
+      "Karthixn/Sp_BlipCreator",
+      "Karthixn/Application_Bot",
+      "Karthixn/PAYMENT_BOT",
+      "Karthixn/Thwariq_Anwar_Portfolio",
+      "Karthixn/Verification_Panel",
+      "Karthixn/Application-Bot",
+      "Karthixn/LP-Vehicle-Spawner",
+      "Karthixn/lp_lobbies",
+      "Karthixn/Lp_NameChecker",
+      "Karthixn/TICKETS-BOT-V1",
+      "Karthixn/NxT_Payments"
+    ]
+  },
+  "seenReleases": {},
+  "seenCommits": {}
+}
