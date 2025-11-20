@@ -95,7 +95,7 @@ with your custom icon.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOURUSERNAME/GitHub-Watcher-Bot
+git clone https://github.com/Karthixn/GitHub-Watcher-Bot.git
 cd GitHub-Watcher-Bot
 npm install
 ```
